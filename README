@@ -1,0 +1,5 @@
+Panel Data Analysis:
+
+This is the analysis of Financial burden due to Non-Communicable diseases on Health Expenditure and Gross National Income in low and middle income countries from world bank data sets.
+
+I have used Ordinary Least Squares (OLS), Mixed effect models (fixed and random effects models). Test this model, I have used Breusch Pegan and Hausman tests.
